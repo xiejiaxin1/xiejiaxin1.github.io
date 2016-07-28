@@ -24,11 +24,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="405" column="62" selection-start-line="405" selection-start-column="62" selection-end-line="405" selection-end-column="62" />
+            <state relative-caret-position="297">
+              <caret line="404" column="62" selection-start-line="404" selection-start-column="62" selection-end-line="404" selection-end-column="62" />
               <folding>
-                <marker date="1469729592838" expanded="true" signature="15678:15923" placeholder="..." />
-                <marker date="1469729592838" expanded="true" signature="16001:16056" placeholder="..." />
+                <marker date="1469730480845" expanded="true" signature="15678:15923" placeholder="..." />
+                <marker date="1469730480845" expanded="true" signature="16001:16056" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -132,7 +132,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/May - 副本" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -230,12 +230,12 @@
       <workItem from="1469513418358" duration="750000" />
       <workItem from="1469546702385" duration="1594000" />
       <workItem from="1469583725099" duration="1830000" />
-      <workItem from="1469729517493" duration="87000" />
+      <workItem from="1469729517493" duration="930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48758000" />
+    <option name="totallyTimeSpent" value="49601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="1931" height="1050" extended-state="1" />
@@ -549,11 +549,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="405" column="62" selection-start-line="405" selection-start-column="62" selection-end-line="405" selection-end-column="62" />
+        <state relative-caret-position="297">
+          <caret line="404" column="62" selection-start-line="404" selection-start-column="62" selection-end-line="404" selection-end-column="62" />
           <folding>
-            <marker date="1469729592838" expanded="true" signature="15678:15923" placeholder="..." />
-            <marker date="1469729592838" expanded="true" signature="16001:16056" placeholder="..." />
+            <marker date="1469730480845" expanded="true" signature="15678:15923" placeholder="..." />
+            <marker date="1469730480845" expanded="true" signature="16001:16056" placeholder="..." />
           </folding>
         </state>
       </provider>
